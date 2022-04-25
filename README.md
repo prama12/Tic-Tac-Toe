@@ -1,1 +1,1 @@
-<img width="1872" alt="Ghar ko map " src="https://user-images.githubusercontent.com/78418025/165026645-e70aee7b-5297-4efc-a0e8-5818beab3c1a.png">
+<img width="960" alt="tictactoe" src="https://user-images.githubusercontent.com/78418025/165027239-b7788048-c497-49f7-b9f1-e73b3cdd2850.png">
